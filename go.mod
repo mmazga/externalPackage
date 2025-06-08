@@ -1,1 +1,1 @@
-module externalPackage
+module github.com/mmazga/externalPackage
